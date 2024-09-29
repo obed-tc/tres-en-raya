@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {},
     fontFamily: {
-      abc: ["Rubik Scribble", "system-ui"],
+      abc: ["Fredoka", "sans-serif"],
     },
   },
   plugins: [],
