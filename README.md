@@ -1,6 +1,11 @@
 # Juego 3 en Raya con React y Tailwind CSS
 
-<img src="https://dl.memuplay.com/new_market/img/tic.tac.toe.two.player.board.games.icon.2022-06-26-09-40-46.png" alt="Logo" style="border-radius: 50%; width: 200px; height: 200px;">
+
+<div>
+    <img src="https://github.com/user-attachments/assets/a6375007-40ab-4ee6-94c7-5305ae98b74a" alt="Logo" border="0" align="center" style="border-radius: 50%; width: 500px; ">
+</div>
+
+
 
 
 Este es un juego de 3 en raya desarrollado utilizando React y Tailwind CSS. El objetivo del juego es conseguir tres fichas del mismo jugador en línea, ya sea de forma vertical, horizontal o diagonal.
